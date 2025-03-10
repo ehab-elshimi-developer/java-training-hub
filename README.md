@@ -49,7 +49,7 @@ This repository is designed to build a strong foundational understanding of Java
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/java-training-hub.git](https://github.com/YOUR_USERNAME/java-training-hub.git)
+    git clone https://github.com/ehab-elshimi-developer/java-training-hub.git
     ```
 2.  Open the project in your preferred IDE (e.g., IntelliJ IDEA or VS Code)
 3.  Run the `MainController` class to execute the solutions
