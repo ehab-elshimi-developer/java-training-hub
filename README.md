@@ -66,5 +66,5 @@ This repository is designed to build a strong foundational understanding of Java
 
 ## Contributing
 
-This repository is for personal learning and practice. However, if you have suggestions or improvements, feel free to open an [Issue](https://github.com/YOUR_USERNAME/java-training-hub/issues) or [Pull Request](https://github.com/YOUR_USERNAME/java-training-hub/pulls).
-```
+This repository is for personal learning and practice. However, if you have suggestions or improvements, feel free to open an [Issue](https://github.com/ehab-elshimi-developer/java-training-hub/issues) or [Pull Request](https://github.com/ehab-elshimi-developer/java-training-hub/pulls).
+
