@@ -1,4 +1,3 @@
-```markdown
 # Java Training Hub
 
 ## Repository Description
